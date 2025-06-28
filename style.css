@@ -1,0 +1,23 @@
+body {
+    background: lightblue;
+    color: blue;
+    align-items: center;
+    text-align: center;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.nameOfObjects, #resultObjectName{
+    color: dodgerblue;
+}
+
+#camera {
+    border: 2px dashed dodgerblue;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+    margin: auto;
+}
