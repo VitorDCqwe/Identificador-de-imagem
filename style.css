@@ -10,7 +10,7 @@ body {
     font-size: 22px;
 }
 
-.nameOfObjects, #resultObjectName{
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy{
     color: dodgerblue;
 }
 
@@ -21,3 +21,4 @@ body {
     border-radius: 5px;
     margin: auto;
 }
+
